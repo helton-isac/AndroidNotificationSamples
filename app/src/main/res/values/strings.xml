@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Notifications</string>
+    <string name="simple_notification">Simple Notification</string>
+    <string name="simple_notification_with_action">Simple Notification With Action</string>
+    <string name="notification_with_reply_text">Notification With Reply Text</string>
+    <string name="notification_with_progress_bar">Notification With Progress Bar</string>
+    <string name="expandable_notification_text">Expandable Notification Text</string>
+    <string name="expandable_notification_image">Expandable Notification Image</string>
+    <string name="inbox_notification">Inbox Notification</string>
+    <string name="media_notification">Media Notification</string>
+    <string name="notification_group">Notification Group</string>
+    <string name="badge">Badge</string>
+    <string name="custom_notification">Custom Notification</string>
+
+    <string name="notification_channel_default_name">Default Notification Channel</string>
+    <string name="notification_channel_default_desc">Channel used for main notifications of the app</string>
+
+    <string name="notification_channel_secondary_name">Secondary Notification Channel</string>
+    <string name="notification_channel_secondary_desc">Channel used for others notifications of the app</string>
 </resources>
